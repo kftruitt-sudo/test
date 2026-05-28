@@ -1,4 +1,6 @@
 order,story_id,title,subtitle,byline,private,show_sections
 orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
-1,blank_template,UCSB's Campus Architecture: 1990-1999,,By Katie Truitt,,
-2,plantilla_en_blanco,reemplázame con tu título,,,,
+0,blank_template,Humanities and Social Sciences Building (HSSB),1996,By Katie Truitt,,
+1,interactive-learning-pavilion-kvha,Interactive Learning Pavilion (ILP),2023,Katie Truitt,,
+2,long-range-development-myml,Long Range Development Plan: 1990,,Katie Truitt,,
+3,long-range-development-psj4,Long Range Development Plan: 2010,,Katie Truitt,,
