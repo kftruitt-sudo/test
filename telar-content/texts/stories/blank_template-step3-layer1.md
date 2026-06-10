@@ -1,5 +1,6 @@
 ---
-title: "Learn more."
+title: "Learn more"
 ---
 
-As outlined in the 1990 LRDP, UCSB aimed to "further the recognized distinction of UCSB in research, creative activity and teaching" and "increase the quality and quantity of research and creative activity." It is clear that, looking through the 1990 LRDP, UCSB was concerned not only with fostering research, but also with fostering its reputation as a prestigious university. However, while these vague academic goals allow for more wiggle room in the planning process, they also obscure key aspects regarding logistics — such as the storage of sacred tribal objects and ancestors. 
+Like most architectural projects, the HSSB went through many different iterations. As mentioned, UCSB's goal with the HSSB was to create a unifying building on campus that catered to the needs of the Humanities, Social Sciences, and Arts. ZGF took this brief and created a massive amount of mock-ups to see which designs would be the most visually pleasing while still remaining within the projected budget. 
+
